@@ -1,6 +1,6 @@
 
 ![Background](https://github.com/eroval/eroval/blob/master/img/background.png)
-### Ich heiße Denis - aka eroval/Liberti. 👋
+<center> ### Ich heiße Denis - aka eroval/Liberti. 👋 </center>
 
 
 ## I'm a Developer and an Artist(kinda)
