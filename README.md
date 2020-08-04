@@ -47,4 +47,4 @@
 
 ---
 
-<img align="left" alt="eroval's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eroval&show_icons=true&hide_border=true" />
+<img align="left" alt="eroval's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eroval&show_icons=true&theme=radical&hide_border=true" />
