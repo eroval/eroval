@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other people!
 - 🥅 Lifetime Goals: Become a literal God in everything I do!
 - ⚡ Fun fact: I love to train, play piano and sometimes I play video games!
-- 🌎 Mr. Worldwide(not really), I try to practice English and German when I can!
+- 🌎 Mr. Worldwide(not really) - I try to practice English and German when I can!
 
 ### Connect with me:
 
