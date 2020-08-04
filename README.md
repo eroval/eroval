@@ -1,5 +1,6 @@
-### Ich heiße Denis - aka eroval/Liberti. 👋
 ![Background](https://github.com/eroval/eroval/blob/master/img/background.png)
+### Ich heiße Denis - aka eroval/Liberti. 👋
+
 
 ## I'm a Developer and an Artist(kinda)
 - 🏢 Always working on myself!
