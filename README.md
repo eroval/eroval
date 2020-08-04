@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="eroval | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />]
-[<img align="left" alt="eroval | Artstation" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/artstation.svg" />]
+[<img align="left" alt="https://www.artstation.com/liberti | Artstation" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/artstation.svg" />]
 [<img align="left" alt="eroval | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 <br />
