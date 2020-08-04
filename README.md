@@ -1,5 +1,6 @@
-
-<img align="center" src="https://github.com/eroval/eroval/blob/master/img/background.png">
+<p align="center">
+<img align="center" src="https://github.com/eroval/eroval/blob/master/img/background.png" />
+</p>
 <br />
 
 ### Ich heiße Denis - aka eroval/Liberti. 👋 
