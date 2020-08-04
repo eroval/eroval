@@ -4,7 +4,6 @@
 
 ### Ich heiße Denis - aka eroval/Liberti. 👋 
 
-
 ## I'm a Developer and an Artist(kinda)
 - 🏢 Always working on myself!
 - 👯 I’m looking to collaborate with other people!
